@@ -9,7 +9,7 @@
   MC_PWMMotor ( void )
 
 # Methods:
-  Attach      ( uint8_t DirPin, uint8_t PWMPin)
+  Attach      ( uint8_t DirPin, uint8_t PWMPin) Attach your Direction Pin and PWM Pin
   Detach      ( void )
   IsActive    ( void )
   Write       ( bool Backward, uint8_t PWM) Dir = false move Foreward and Dir = true move Backward, PWM is between 0 up to 255
