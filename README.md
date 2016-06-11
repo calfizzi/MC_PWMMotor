@@ -1,9 +1,11 @@
 # MC_PWMMotor
 
-  File type   : Arduino Library
-  Developed By: Mario Calfizzi
+File type   : Arduino Library
 
-  Description : Arduino library to manage the DC Motors using L293D 
+Developed By: Mario Calfizzi
+
+# Description: 
+Arduino library to manage the DC Motors using L293D 
                 
 # Constructors:
   MC_PWMMotor ( void )
