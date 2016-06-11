@@ -15,7 +15,7 @@ Detach      ( void )
 
 IsActive    ( void )
 
-Write       ( bool Backward, uint8_t PWM) Dir = false move Foreward and Dir = true move Backward, PWM is between 0 up to 255
+Write       ( bool Backward, uint8_t PWM) Dir = false go Foreward and Dir = true go Backward, PWM is between 0 up to 255
 
 Write       ( double Speed)               Speed is decimal number between -100 to 100, 0 Value is Motor OFF
 
